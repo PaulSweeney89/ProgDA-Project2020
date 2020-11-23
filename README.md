@@ -2,8 +2,6 @@
 
 ## Programming for Data Analysis Project 2020
 
-Exploration of Python's NumPy library & in particular the numpy.random package as part of the Programming for Data Analysis Module 2020
-
 Submission date: 21 December 2020
 ***
 Objective:
