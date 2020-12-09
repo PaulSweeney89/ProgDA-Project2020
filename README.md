@@ -32,6 +32,7 @@ List of files & folders contained within the Github Repository:
 - .gitignore file -  specifies files to be untracked by git.
 - ProgDAProject.pdf - full description of the Programming for Data Analysis Project & objectives.
 - README.md - This README markdown file.
+- traffic.csv - CSV file output of the dataset created in the project. 
 - Traffic.ipynb - Jupyter Notebook file containing all the descriptive & programming objectives of the Project.
 
 ## Jupyter Notebook
