@@ -64,3 +64,5 @@ List of Python Packages & Libraries used within the projet:
 - NumPy, [numpy.org](https://numpy.org/)
 - Seaborn, [seaborn.pydata.org](https://seaborn.pydata.org/)
 - Matplotlib, [matplotlib.org](https://matplotlib.org/)
+- Random module, [random](https://docs.python.org/3/library/random.html)
+- Datetime module, [datetime](https://docs.python.org/3/library/datetime.html)
