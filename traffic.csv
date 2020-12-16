@@ -1,201 +1,201 @@
 Gender,Age,Mode of Travel,Journey Distance (km),Journey Time (mins),Hour of Departure,Age Group
-Male,55,private vehicle,13.0,29.0,2019-10-07 03:00:00,46 to 55
-Male,24,public transport,8.0,14.0,2019-10-07 04:00:00,18 to 25
-Female,62,public transport,5.0,9.0,2019-10-07 03:00:00,56 to 65
-Female,45,private vehicle,14.0,24.0,2019-10-07 03:00:00,36 to 45
-Male,47,private vehicle,12.0,25.0,2019-10-07 06:00:00,46 to 55
-Female,45,public transport,8.0,19.0,2019-10-07 09:00:00,36 to 45
-Male,28,private vehicle,15.0,35.0,2019-10-07 08:00:00,26 to 35
-Male,50,private vehicle,17.0,33.0,2019-10-07 07:00:00,46 to 55
-Male,38,private vehicle,13.0,29.0,2019-10-07 08:00:00,36 to 45
-Male,31,public transport,5.0,10.0,2019-10-07 08:00:00,26 to 35
-Female,55,public transport,12.0,27.0,2019-10-07 06:00:00,46 to 55
-Female,18,public transport,7.0,14.0,2019-10-07 07:00:00,18 to 25
-Female,25,private vehicle,20.0,48.0,2019-10-07 08:00:00,18 to 25
-Female,65,private vehicle,14.0,31.0,2019-10-07 09:00:00,56 to 65
-Male,30,private vehicle,12.0,22.0,2019-10-07 09:00:00,26 to 35
-Male,31,cycle,4.0,13.0,2019-10-07 08:00:00,26 to 35
-Female,65,private vehicle,20.0,44.0,2019-10-07 09:00:00,56 to 65
-Male,24,cycle,8.0,22.0,2019-10-07 08:00:00,18 to 25
-Male,59,private vehicle,14.0,32.0,2019-10-07 08:00:00,56 to 65
-Male,23,cycle,6.0,17.0,2019-10-07 09:00:00,18 to 25
-Female,18,public transport,7.0,16.0,2019-10-07 09:00:00,18 to 25
-Female,61,public transport,6.0,12.0,2019-10-07 07:00:00,56 to 65
-Male,35,private vehicle,12.0,28.0,2019-10-07 08:00:00,26 to 35
-Female,40,private vehicle,9.0,22.0,2019-10-07 09:00:00,36 to 45
-Female,46,private vehicle,12.0,23.0,2019-10-07 09:00:00,46 to 55
-Female,54,public transport,6.0,11.0,2019-10-07 09:00:00,46 to 55
-Female,54,walk,2.0,30.0,2019-10-07 07:00:00,46 to 55
-Male,22,private vehicle,13.0,25.0,2019-10-07 10:00:00,18 to 25
-Male,46,private vehicle,14.0,28.0,2019-10-07 09:00:00,46 to 55
-Male,43,cycle,10.0,33.0,2019-10-07 09:00:00,36 to 45
-Male,56,private vehicle,16.0,37.0,2019-10-07 07:00:00,56 to 65
-Male,43,private vehicle,13.0,24.0,2019-10-07 08:00:00,36 to 45
-Female,57,private vehicle,8.0,15.0,2019-10-07 06:00:00,56 to 65
-Female,50,private vehicle,12.0,29.0,2019-10-07 08:00:00,46 to 55
-Male,50,walk,3.0,36.0,2019-10-07 07:00:00,46 to 55
-Female,22,cycle,7.0,20.0,2019-10-07 08:00:00,18 to 25
-Female,57,public transport,4.0,8.0,2019-10-07 09:00:00,56 to 65
-Female,36,private vehicle,10.0,19.0,2019-10-07 08:00:00,36 to 45
-Male,42,private vehicle,9.0,22.0,2019-10-07 09:00:00,36 to 45
-Male,64,private vehicle,10.0,17.0,2019-10-07 08:00:00,56 to 65
-Female,56,private vehicle,16.0,30.0,2019-10-07 07:00:00,56 to 65
-Female,40,private vehicle,10.0,24.0,2019-10-07 09:00:00,36 to 45
-Female,22,walk,3.0,30.0,2019-10-07 07:00:00,18 to 25
-Male,46,public transport,7.0,16.0,2019-10-07 09:00:00,46 to 55
-Male,22,cycle,8.0,28.0,2019-10-07 09:00:00,18 to 25
-Male,29,public transport,8.0,18.0,2019-10-07 06:00:00,26 to 35
-Male,65,private vehicle,14.0,24.0,2019-10-07 07:00:00,56 to 65
-Male,62,private vehicle,10.0,21.0,2019-10-07 06:00:00,56 to 65
-Male,42,private vehicle,18.0,42.0,2019-10-07 07:00:00,36 to 45
-Female,24,public transport,5.0,10.0,2019-10-07 07:00:00,18 to 25
-Female,59,private vehicle,23.0,39.0,2019-10-07 07:00:00,56 to 65
-Male,26,walk,2.0,20.0,2019-10-07 07:00:00,26 to 35
-Male,58,private vehicle,15.0,35.0,2019-10-07 07:00:00,56 to 65
-Female,41,private vehicle,13.0,25.0,2019-10-07 08:00:00,36 to 45
-Female,57,private vehicle,12.0,26.0,2019-10-07 07:00:00,56 to 65
-Male,47,private vehicle,15.0,26.0,2019-10-07 07:00:00,46 to 55
-Female,60,cycle,8.0,21.0,2019-10-07 07:00:00,56 to 65
-Male,59,private vehicle,17.0,34.0,2019-10-07 08:00:00,56 to 65
-Female,65,private vehicle,14.0,34.0,2019-10-07 07:00:00,56 to 65
-Female,34,walk,2.0,20.0,2019-10-07 08:00:00,26 to 35
-Female,33,private vehicle,11.0,24.0,2019-10-07 16:00:00,26 to 35
-Female,53,private vehicle,20.0,36.0,2019-10-07 14:00:00,46 to 55
-Female,49,public transport,9.0,17.0,2019-10-07 16:00:00,46 to 55
-Male,30,cycle,9.0,30.0,2019-10-07 11:00:00,26 to 35
-Male,56,private vehicle,19.0,37.0,2019-10-07 14:00:00,56 to 65
-Female,55,private vehicle,19.0,36.0,2019-10-07 13:00:00,46 to 55
-Male,58,public transport,3.0,5.0,2019-10-07 13:00:00,56 to 65
-Female,60,walk,5.0,75.0,2019-10-07 13:00:00,56 to 65
-Female,57,private vehicle,21.0,41.0,2019-10-07 15:00:00,56 to 65
-Male,45,private vehicle,16.0,28.0,2019-10-07 16:00:00,36 to 45
-Female,24,public transport,6.0,13.0,2019-10-07 15:00:00,18 to 25
-Male,39,private vehicle,13.0,30.0,2019-10-07 13:00:00,36 to 45
-Male,34,private vehicle,15.0,31.0,2019-10-07 16:00:00,26 to 35
-Male,54,private vehicle,12.0,24.0,2019-10-07 13:00:00,46 to 55
-Male,64,public transport,6.0,14.0,2019-10-07 11:00:00,56 to 65
-Male,62,private vehicle,15.0,36.0,2019-10-07 11:00:00,56 to 65
-Female,23,walk,3.0,36.0,2019-10-07 13:00:00,18 to 25
-Female,41,cycle,5.0,20.0,2019-10-07 12:00:00,36 to 45
-Female,26,private vehicle,11.0,22.0,2019-10-07 12:00:00,26 to 35
-Male,55,private vehicle,14.0,24.0,2019-10-07 14:00:00,46 to 55
-Female,29,walk,4.0,40.0,2019-10-07 12:00:00,26 to 35
-Male,21,public transport,5.0,9.0,2019-10-07 17:00:00,18 to 25
-Male,22,private vehicle,11.0,26.0,2019-10-07 17:00:00,18 to 25
-Male,36,private vehicle,10.0,19.0,2019-10-07 14:00:00,36 to 45
-Female,39,walk,4.0,60.0,2019-10-07 11:00:00,36 to 45
-Female,45,public transport,4.0,10.0,2019-10-07 16:00:00,36 to 45
-Male,41,private vehicle,8.0,14.0,2019-10-07 11:00:00,36 to 45
-Male,28,public transport,7.0,13.0,2019-10-07 15:00:00,26 to 35
-Male,46,private vehicle,14.0,27.0,2019-10-07 15:00:00,46 to 55
-Female,20,public transport,7.0,15.0,2019-10-07 16:00:00,18 to 25
-Male,45,private vehicle,10.0,18.0,2019-10-07 15:00:00,36 to 45
-Male,52,private vehicle,9.0,21.0,2019-10-07 14:00:00,46 to 55
-Male,51,private vehicle,13.0,24.0,2019-10-07 10:00:00,46 to 55
-Female,29,private vehicle,7.0,14.0,2019-10-07 15:00:00,26 to 35
-Male,20,walk,1.0,12.0,2019-10-07 11:00:00,18 to 25
-Female,42,private vehicle,10.0,18.0,2019-10-07 13:00:00,36 to 45
-Male,58,private vehicle,11.0,22.0,2019-10-07 15:00:00,56 to 65
-Male,52,private vehicle,27.0,52.0,2019-10-07 12:00:00,46 to 55
-Female,55,private vehicle,12.0,27.0,2019-10-07 11:00:00,46 to 55
-Female,36,private vehicle,11.0,23.0,2019-10-07 12:00:00,36 to 45
-Female,41,private vehicle,15.0,31.0,2019-10-07 15:00:00,36 to 45
-Male,33,private vehicle,7.0,14.0,2019-10-07 11:00:00,26 to 35
-Male,39,walk,3.0,45.0,2019-10-07 13:00:00,36 to 45
-Male,19,cycle,4.0,13.0,2019-10-07 17:00:00,18 to 25
-Female,62,public transport,6.0,13.0,2019-10-07 11:00:00,56 to 65
-Female,56,private vehicle,17.0,32.0,2019-10-07 15:00:00,56 to 65
-Male,20,cycle,3.0,11.0,2019-10-07 14:00:00,18 to 25
-Male,25,cycle,6.0,15.0,2019-10-07 13:00:00,18 to 25
-Female,52,private vehicle,10.0,19.0,2019-10-07 16:00:00,46 to 55
-Female,38,private vehicle,10.0,22.0,2019-10-07 15:00:00,36 to 45
-Male,63,private vehicle,14.0,26.0,2019-10-07 12:00:00,56 to 65
-Male,61,public transport,9.0,17.0,2019-10-07 15:00:00,56 to 65
-Male,61,private vehicle,17.0,36.0,2019-10-07 12:00:00,56 to 65
-Male,43,private vehicle,14.0,32.0,2019-10-07 12:00:00,36 to 45
-Female,18,public transport,7.0,12.0,2019-10-07 10:00:00,18 to 25
-Female,26,private vehicle,13.0,26.0,2019-10-07 13:00:00,26 to 35
-Female,33,private vehicle,12.0,23.0,2019-10-07 11:00:00,26 to 35
-Female,19,cycle,8.0,32.0,2019-10-07 16:00:00,18 to 25
-Female,23,public transport,5.0,9.0,2019-10-07 14:00:00,18 to 25
-Female,25,private vehicle,13.0,26.0,2019-10-07 15:00:00,18 to 25
-Female,35,private vehicle,13.0,28.0,2019-10-07 12:00:00,26 to 35
-Female,63,private vehicle,19.0,42.0,2019-10-07 14:00:00,56 to 65
-Male,41,private vehicle,15.0,28.0,2019-10-07 12:00:00,36 to 45
-Female,49,private vehicle,19.0,34.0,2019-10-07 10:00:00,46 to 55
-Male,42,private vehicle,20.0,41.0,2019-10-07 11:00:00,36 to 45
-Male,54,private vehicle,20.0,41.0,2019-10-07 13:00:00,46 to 55
-Male,56,public transport,6.0,11.0,2019-10-07 15:00:00,56 to 65
-Female,23,cycle,9.0,26.0,2019-10-07 10:00:00,18 to 25
-Male,38,private vehicle,16.0,27.0,2019-10-07 11:00:00,36 to 45
-Male,20,walk,3.0,30.0,2019-10-07 10:00:00,18 to 25
-Male,43,private vehicle,18.0,36.0,2019-10-07 14:00:00,36 to 45
-Female,59,private vehicle,15.0,30.0,2019-10-07 11:00:00,56 to 65
-Female,37,private vehicle,9.0,16.0,2019-10-07 14:00:00,36 to 45
-Female,40,private vehicle,13.0,24.0,2019-10-07 13:00:00,36 to 45
-Male,25,cycle,8.0,32.0,2019-10-07 14:00:00,18 to 25
-Female,38,walk,4.0,40.0,2019-10-07 13:00:00,36 to 45
-Female,29,public transport,5.0,9.0,2019-10-07 15:00:00,26 to 35
-Male,34,private vehicle,10.0,18.0,2019-10-07 12:00:00,26 to 35
-Male,23,walk,2.0,24.0,2019-10-07 14:00:00,18 to 25
-Male,32,private vehicle,9.0,19.0,2019-10-07 16:00:00,26 to 35
-Female,36,private vehicle,16.0,33.0,2019-10-07 19:00:00,36 to 45
-Female,29,public transport,7.0,12.0,2019-10-07 19:00:00,26 to 35
-Male,30,private vehicle,16.0,34.0,2019-10-07 17:00:00,26 to 35
-Female,22,walk,2.0,20.0,2019-10-07 21:00:00,18 to 25
-Female,41,walk,2.0,30.0,2019-10-07 21:00:00,36 to 45
-Female,37,private vehicle,14.0,30.0,2019-10-07 18:00:00,36 to 45
-Female,64,private vehicle,9.0,16.0,2019-10-07 18:00:00,56 to 65
-Male,40,private vehicle,7.0,17.0,2019-10-07 22:00:00,36 to 45
-Male,39,cycle,7.0,17.0,2019-10-07 18:00:00,36 to 45
-Male,63,private vehicle,12.0,21.0,2019-10-07 17:00:00,56 to 65
-Female,44,private vehicle,10.0,18.0,2019-10-07 19:00:00,36 to 45
-Male,56,private vehicle,11.0,21.0,2019-10-07 22:00:00,56 to 65
-Male,56,private vehicle,10.0,19.0,2019-10-07 22:00:00,56 to 65
-Female,48,private vehicle,15.0,26.0,2019-10-07 21:00:00,46 to 55
-Female,26,cycle,9.0,36.0,2019-10-07 22:00:00,26 to 35
-Female,40,private vehicle,19.0,39.0,2019-10-07 21:00:00,36 to 45
-Male,64,private vehicle,11.0,20.0,2019-10-07 17:00:00,56 to 65
-Female,30,private vehicle,11.0,25.0,2019-10-07 21:00:00,26 to 35
-Male,45,private vehicle,12.0,22.0,2019-10-07 21:00:00,36 to 45
-Male,62,public transport,9.0,16.0,2019-10-07 18:00:00,56 to 65
-Female,28,cycle,9.0,32.0,2019-10-07 17:00:00,26 to 35
-Male,61,private vehicle,10.0,24.0,2019-10-07 19:00:00,56 to 65
-Female,59,private vehicle,16.0,32.0,2019-10-07 18:00:00,56 to 65
-Female,18,public transport,11.0,23.0,2019-10-07 19:00:00,18 to 25
-Male,22,private vehicle,7.0,13.0,2019-10-07 21:00:00,18 to 25
-Male,47,private vehicle,14.0,24.0,2019-10-07 23:00:00,46 to 55
-Female,26,cycle,5.0,12.0,2019-10-07 18:00:00,26 to 35
-Female,53,private vehicle,14.0,25.0,2019-10-07 21:00:00,46 to 55
-Male,18,public transport,10.0,21.0,2019-10-07 19:00:00,18 to 25
-Male,62,private vehicle,13.0,29.0,2019-10-07 18:00:00,56 to 65
-Female,26,private vehicle,19.0,41.0,2019-10-07 21:00:00,26 to 35
-Male,36,private vehicle,15.0,28.0,2019-10-07 22:00:00,36 to 45
-Female,45,private vehicle,14.0,26.0,2019-10-07 23:00:00,36 to 45
-Female,23,public transport,7.0,14.0,2019-10-07 18:00:00,18 to 25
-Male,52,private vehicle,10.0,24.0,2019-10-07 17:00:00,46 to 55
-Female,19,cycle,9.0,22.0,2019-10-07 19:00:00,18 to 25
-Female,51,private vehicle,12.0,28.0,2019-10-07 19:00:00,46 to 55
-Female,22,cycle,6.0,14.0,2019-10-07 18:00:00,18 to 25
-Female,34,walk,3.0,36.0,2019-10-07 20:00:00,26 to 35
-Female,54,private vehicle,16.0,30.0,2019-10-07 21:00:00,46 to 55
-Female,58,private vehicle,14.0,26.0,2019-10-07 18:00:00,56 to 65
-Female,47,private vehicle,11.0,23.0,2019-10-07 22:00:00,46 to 55
-Male,34,private vehicle,8.0,14.0,2019-10-07 20:00:00,26 to 35
-Female,19,cycle,8.0,24.0,2019-10-07 19:00:00,18 to 25
-Male,45,private vehicle,21.0,47.0,2019-10-07 19:00:00,36 to 45
-Male,49,private vehicle,18.0,36.0,2019-10-07 21:00:00,46 to 55
-Male,62,walk,4.0,60.0,2019-10-07 20:00:00,56 to 65
-Male,32,cycle,4.0,10.0,2019-10-07 19:00:00,26 to 35
-Female,28,cycle,9.0,23.0,2019-10-07 20:00:00,26 to 35
-Male,44,private vehicle,7.0,12.0,2019-10-07 18:00:00,36 to 45
-Male,19,walk,2.0,24.0,2019-10-07 20:00:00,18 to 25
-Female,57,cycle,6.0,21.0,2019-10-07 18:00:00,56 to 65
-Female,58,public transport,7.0,14.0,2019-10-07 21:00:00,56 to 65
-Male,47,private vehicle,17.0,32.0,2019-10-07 22:00:00,46 to 55
-Female,22,walk,3.0,45.0,2019-10-07 22:00:00,18 to 25
-Male,60,private vehicle,13.0,27.0,2019-10-07 19:00:00,56 to 65
-Male,46,private vehicle,15.0,27.0,2019-10-07 20:00:00,46 to 55
-Female,24,walk,3.0,45.0,2019-10-07 18:00:00,18 to 25
-Female,31,private vehicle,23.0,53.0,2019-10-07 18:00:00,26 to 35
-Female,55,public transport,6.0,13.0,2019-10-07 19:00:00,46 to 55
+Male,51,private vehicle,13.0,23.0,2019-10-07 03:00:00,46 to 55
+Male,59,private vehicle,23.0,49.0,2019-10-07 00:00:00,56 to 65
+Male,35,walk,2.0,24.0,2019-10-07 01:00:00,26 to 35
+Male,63,private vehicle,12.0,25.0,2019-10-07 01:00:00,56 to 65
+Female,61,private vehicle,11.0,19.0,2019-10-07 07:00:00,56 to 65
+Female,28,walk,2.0,24.0,2019-10-07 08:00:00,26 to 35
+Male,62,private vehicle,13.0,24.0,2019-10-07 09:00:00,56 to 65
+Male,36,cycle,6.0,22.0,2019-10-07 08:00:00,36 to 45
+Female,25,private vehicle,11.0,19.0,2019-10-07 08:00:00,18 to 25
+Male,38,private vehicle,16.0,33.0,2019-10-07 09:00:00,36 to 45
+Female,47,private vehicle,10.0,18.0,2019-10-07 08:00:00,46 to 55
+Female,22,cycle,9.0,22.0,2019-10-07 09:00:00,18 to 25
+Female,46,private vehicle,10.0,23.0,2019-10-07 08:00:00,46 to 55
+Male,43,private vehicle,14.0,25.0,2019-10-07 08:00:00,36 to 45
+Female,33,private vehicle,12.0,29.0,2019-10-07 07:00:00,26 to 35
+Female,32,private vehicle,7.0,13.0,2019-10-07 08:00:00,26 to 35
+Female,54,private vehicle,7.0,15.0,2019-10-07 09:00:00,46 to 55
+Female,60,private vehicle,11.0,24.0,2019-10-07 09:00:00,56 to 65
+Male,53,private vehicle,20.0,48.0,2019-10-07 08:00:00,46 to 55
+Female,25,walk,4.0,48.0,2019-10-07 08:00:00,18 to 25
+Male,58,private vehicle,11.0,26.0,2019-10-07 07:00:00,56 to 65
+Male,62,private vehicle,18.0,42.0,2019-10-07 08:00:00,56 to 65
+Male,52,walk,4.0,48.0,2019-10-07 09:00:00,46 to 55
+Male,46,private vehicle,16.0,27.0,2019-10-07 06:00:00,46 to 55
+Female,41,walk,2.0,24.0,2019-10-07 08:00:00,36 to 45
+Female,22,private vehicle,9.0,15.0,2019-10-07 09:00:00,18 to 25
+Female,25,private vehicle,15.0,28.0,2019-10-07 07:00:00,18 to 25
+Male,63,private vehicle,11.0,26.0,2019-10-07 08:00:00,56 to 65
+Female,36,private vehicle,18.0,40.0,2019-10-07 07:00:00,36 to 45
+Female,47,private vehicle,13.0,23.0,2019-10-07 10:00:00,46 to 55
+Female,24,walk,3.0,45.0,2019-10-07 09:00:00,18 to 25
+Female,30,private vehicle,11.0,26.0,2019-10-07 07:00:00,26 to 35
+Male,20,walk,4.0,40.0,2019-10-07 09:00:00,18 to 25
+Female,40,walk,1.0,12.0,2019-10-07 09:00:00,36 to 45
+Female,43,private vehicle,15.0,28.0,2019-10-07 05:00:00,36 to 45
+Male,36,private vehicle,11.0,24.0,2019-10-07 08:00:00,36 to 45
+Male,18,walk,3.0,36.0,2019-10-07 09:00:00,18 to 25
+Female,39,walk,4.0,40.0,2019-10-07 07:00:00,36 to 45
+Male,58,private vehicle,9.0,22.0,2019-10-07 07:00:00,56 to 65
+Female,28,walk,3.0,36.0,2019-10-07 06:00:00,26 to 35
+Male,49,private vehicle,11.0,22.0,2019-10-07 08:00:00,46 to 55
+Female,65,private vehicle,8.0,19.0,2019-10-07 08:00:00,56 to 65
+Male,32,walk,1.0,15.0,2019-10-07 08:00:00,26 to 35
+Female,22,cycle,10.0,25.0,2019-10-07 09:00:00,18 to 25
+Female,49,private vehicle,18.0,34.0,2019-10-07 09:00:00,46 to 55
+Female,41,private vehicle,12.0,22.0,2019-10-07 08:00:00,36 to 45
+Female,50,private vehicle,10.0,19.0,2019-10-07 08:00:00,46 to 55
+Male,40,private vehicle,13.0,26.0,2019-10-07 08:00:00,36 to 45
+Female,52,private vehicle,11.0,25.0,2019-10-07 06:00:00,46 to 55
+Male,41,private vehicle,6.0,11.0,2019-10-07 07:00:00,36 to 45
+Male,25,private vehicle,13.0,30.0,2019-10-07 09:00:00,18 to 25
+Male,41,public transport,9.0,22.0,2019-10-07 06:00:00,36 to 45
+Male,30,private vehicle,11.0,22.0,2019-10-07 08:00:00,26 to 35
+Female,43,private vehicle,14.0,25.0,2019-10-07 06:00:00,36 to 45
+Male,54,private vehicle,20.0,39.0,2019-10-07 08:00:00,46 to 55
+Female,33,private vehicle,14.0,34.0,2019-10-07 07:00:00,26 to 35
+Female,64,public transport,4.0,8.0,2019-10-07 05:00:00,56 to 65
+Male,65,private vehicle,12.0,28.0,2019-10-07 07:00:00,56 to 65
+Female,18,walk,2.0,30.0,2019-10-07 08:00:00,18 to 25
+Female,57,private vehicle,11.0,21.0,2019-10-07 08:00:00,56 to 65
+Female,54,private vehicle,11.0,19.0,2019-10-07 13:00:00,46 to 55
+Female,45,public transport,9.0,19.0,2019-10-07 15:00:00,36 to 45
+Female,22,cycle,5.0,15.0,2019-10-07 12:00:00,18 to 25
+Female,32,private vehicle,15.0,29.0,2019-10-07 14:00:00,26 to 35
+Male,19,cycle,5.0,18.0,2019-10-07 13:00:00,18 to 25
+Male,36,private vehicle,8.0,15.0,2019-10-07 15:00:00,36 to 45
+Male,24,walk,2.0,30.0,2019-10-07 11:00:00,18 to 25
+Male,57,private vehicle,18.0,34.0,2019-10-07 15:00:00,56 to 65
+Male,52,private vehicle,13.0,24.0,2019-10-07 16:00:00,46 to 55
+Male,52,private vehicle,14.0,28.0,2019-10-07 16:00:00,46 to 55
+Male,58,private vehicle,16.0,32.0,2019-10-07 14:00:00,56 to 65
+Female,50,private vehicle,12.0,29.0,2019-10-07 11:00:00,46 to 55
+Male,48,private vehicle,12.0,29.0,2019-10-07 14:00:00,46 to 55
+Male,32,cycle,5.0,15.0,2019-10-07 15:00:00,26 to 35
+Female,52,private vehicle,19.0,46.0,2019-10-07 16:00:00,46 to 55
+Female,49,private vehicle,14.0,34.0,2019-10-07 15:00:00,46 to 55
+Female,42,walk,2.0,24.0,2019-10-07 15:00:00,36 to 45
+Male,53,private vehicle,12.0,23.0,2019-10-07 13:00:00,46 to 55
+Male,43,private vehicle,19.0,38.0,2019-10-07 12:00:00,36 to 45
+Male,53,private vehicle,15.0,31.0,2019-10-07 11:00:00,46 to 55
+Male,25,cycle,9.0,28.0,2019-10-07 16:00:00,18 to 25
+Female,44,cycle,6.0,18.0,2019-10-07 15:00:00,36 to 45
+Male,56,private vehicle,15.0,26.0,2019-10-07 13:00:00,56 to 65
+Female,59,private vehicle,12.0,24.0,2019-10-07 16:00:00,56 to 65
+Female,29,private vehicle,12.0,27.0,2019-10-07 16:00:00,26 to 35
+Female,30,public transport,11.0,25.0,2019-10-07 13:00:00,26 to 35
+Male,23,cycle,7.0,18.0,2019-10-07 12:00:00,18 to 25
+Male,51,private vehicle,10.0,18.0,2019-10-07 11:00:00,46 to 55
+Male,42,private vehicle,13.0,24.0,2019-10-07 12:00:00,36 to 45
+Female,51,private vehicle,23.0,55.0,2019-10-07 15:00:00,46 to 55
+Male,22,walk,3.0,30.0,2019-10-07 13:00:00,18 to 25
+Male,52,private vehicle,15.0,33.0,2019-10-07 15:00:00,46 to 55
+Male,39,walk,4.0,48.0,2019-10-07 16:00:00,36 to 45
+Female,21,cycle,5.0,14.0,2019-10-07 16:00:00,18 to 25
+Male,24,public transport,9.0,19.0,2019-10-07 14:00:00,18 to 25
+Female,28,cycle,8.0,25.0,2019-10-07 14:00:00,26 to 35
+Female,49,private vehicle,13.0,28.0,2019-10-07 13:00:00,46 to 55
+Female,54,private vehicle,17.0,30.0,2019-10-07 15:00:00,46 to 55
+Male,39,private vehicle,9.0,19.0,2019-10-07 17:00:00,36 to 45
+Male,29,private vehicle,13.0,24.0,2019-10-07 13:00:00,26 to 35
+Female,40,walk,4.0,48.0,2019-10-07 12:00:00,36 to 45
+Female,27,private vehicle,7.0,14.0,2019-10-07 13:00:00,26 to 35
+Male,62,private vehicle,21.0,41.0,2019-10-07 16:00:00,56 to 65
+Female,61,private vehicle,16.0,27.0,2019-10-07 11:00:00,56 to 65
+Female,33,private vehicle,12.0,27.0,2019-10-07 12:00:00,26 to 35
+Male,44,walk,4.0,60.0,2019-10-07 14:00:00,36 to 45
+Male,58,private vehicle,8.0,19.0,2019-10-07 17:00:00,56 to 65
+Male,19,walk,3.0,30.0,2019-10-07 15:00:00,18 to 25
+Male,49,private vehicle,14.0,25.0,2019-10-07 17:00:00,46 to 55
+Female,54,public transport,6.0,11.0,2019-10-07 12:00:00,46 to 55
+Male,57,cycle,9.0,22.0,2019-10-07 11:00:00,56 to 65
+Female,47,private vehicle,16.0,34.0,2019-10-07 12:00:00,46 to 55
+Male,40,private vehicle,11.0,23.0,2019-10-07 14:00:00,36 to 45
+Female,38,private vehicle,11.0,19.0,2019-10-07 16:00:00,36 to 45
+Male,34,cycle,10.0,29.0,2019-10-07 15:00:00,26 to 35
+Female,37,private vehicle,18.0,42.0,2019-10-07 16:00:00,36 to 45
+Male,45,private vehicle,17.0,41.0,2019-10-07 10:00:00,36 to 45
+Female,56,private vehicle,11.0,21.0,2019-10-07 12:00:00,56 to 65
+Female,30,private vehicle,14.0,34.0,2019-10-07 13:00:00,26 to 35
+Female,19,cycle,9.0,22.0,2019-10-07 14:00:00,18 to 25
+Female,59,private vehicle,13.0,29.0,2019-10-07 11:00:00,56 to 65
+Male,39,private vehicle,9.0,20.0,2019-10-07 16:00:00,36 to 45
+Female,44,walk,2.0,30.0,2019-10-07 11:00:00,36 to 45
+Male,32,private vehicle,16.0,37.0,2019-10-07 15:00:00,26 to 35
+Female,48,private vehicle,20.0,48.0,2019-10-07 14:00:00,46 to 55
+Male,29,private vehicle,11.0,22.0,2019-10-07 14:00:00,26 to 35
+Male,61,private vehicle,8.0,18.0,2019-10-07 15:00:00,56 to 65
+Female,39,private vehicle,15.0,29.0,2019-10-07 13:00:00,36 to 45
+Male,41,private vehicle,15.0,31.0,2019-10-07 11:00:00,36 to 45
+Female,65,private vehicle,19.0,36.0,2019-10-07 12:00:00,56 to 65
+Female,65,private vehicle,20.0,44.0,2019-10-07 17:00:00,56 to 65
+Male,46,private vehicle,14.0,25.0,2019-10-07 15:00:00,46 to 55
+Female,54,private vehicle,15.0,29.0,2019-10-07 15:00:00,46 to 55
+Male,52,public transport,4.0,8.0,2019-10-07 13:00:00,46 to 55
+Female,46,private vehicle,13.0,31.0,2019-10-07 15:00:00,46 to 55
+Female,61,private vehicle,17.0,33.0,2019-10-07 16:00:00,56 to 65
+Female,53,private vehicle,19.0,42.0,2019-10-07 16:00:00,46 to 55
+Male,44,private vehicle,11.0,22.0,2019-10-07 12:00:00,36 to 45
+Female,44,private vehicle,10.0,17.0,2019-10-07 17:00:00,36 to 45
+Female,62,public transport,14.0,32.0,2019-10-07 12:00:00,56 to 65
+Female,58,private vehicle,14.0,31.0,2019-10-07 17:00:00,56 to 65
+Male,19,cycle,5.0,14.0,2019-10-07 18:00:00,18 to 25
+Female,63,private vehicle,9.0,17.0,2019-10-07 21:00:00,56 to 65
+Female,59,public transport,9.0,19.0,2019-10-07 19:00:00,56 to 65
+Male,60,private vehicle,18.0,34.0,2019-10-07 21:00:00,56 to 65
+Female,27,private vehicle,14.0,30.0,2019-10-07 21:00:00,26 to 35
+Female,38,walk,2.0,24.0,2019-10-07 22:00:00,36 to 45
+Female,23,public transport,10.0,22.0,2019-10-07 17:00:00,18 to 25
+Male,47,private vehicle,16.0,34.0,2019-10-07 17:00:00,46 to 55
+Male,46,private vehicle,13.0,22.0,2019-10-07 18:00:00,46 to 55
+Male,58,private vehicle,17.0,32.0,2019-10-07 18:00:00,56 to 65
+Male,51,private vehicle,18.0,33.0,2019-10-07 19:00:00,46 to 55
+Male,39,cycle,9.0,32.0,2019-10-07 21:00:00,36 to 45
+Male,55,private vehicle,11.0,21.0,2019-10-07 19:00:00,46 to 55
+Female,43,private vehicle,7.0,14.0,2019-10-07 20:00:00,36 to 45
+Male,54,private vehicle,21.0,43.0,2019-10-07 18:00:00,46 to 55
+Male,29,private vehicle,22.0,46.0,2019-10-07 20:00:00,26 to 35
+Female,36,private vehicle,6.0,14.0,2019-10-07 19:00:00,36 to 45
+Male,39,private vehicle,17.0,34.0,2019-10-07 20:00:00,36 to 45
+Female,38,private vehicle,11.0,21.0,2019-10-07 17:00:00,36 to 45
+Female,40,private vehicle,7.0,14.0,2019-10-07 19:00:00,36 to 45
+Female,24,public transport,5.0,12.0,2019-10-07 18:00:00,18 to 25
+Male,65,private vehicle,11.0,24.0,2019-10-07 20:00:00,56 to 65
+Female,37,private vehicle,14.0,28.0,2019-10-07 19:00:00,36 to 45
+Male,61,private vehicle,12.0,21.0,2019-10-07 18:00:00,56 to 65
+Male,45,private vehicle,10.0,24.0,2019-10-07 19:00:00,36 to 45
+Female,34,private vehicle,10.0,19.0,2019-10-07 16:00:00,26 to 35
+Female,58,private vehicle,15.0,32.0,2019-10-07 21:00:00,56 to 65
+Male,56,private vehicle,17.0,41.0,2019-10-07 19:00:00,56 to 65
+Male,49,private vehicle,10.0,18.0,2019-10-07 23:00:00,46 to 55
+Male,41,walk,3.0,45.0,2019-10-07 19:00:00,36 to 45
+Male,60,private vehicle,11.0,21.0,2019-10-07 22:00:00,56 to 65
+Female,60,private vehicle,11.0,20.0,2019-10-07 21:00:00,56 to 65
+Female,58,private vehicle,15.0,26.0,2019-10-07 21:00:00,56 to 65
+Male,55,private vehicle,9.0,16.0,2019-10-07 22:00:00,46 to 55
+Male,62,private vehicle,14.0,28.0,2019-10-07 20:00:00,56 to 65
+Male,34,private vehicle,19.0,46.0,2019-10-07 19:00:00,26 to 35
+Male,45,private vehicle,13.0,22.0,2019-10-07 21:00:00,36 to 45
+Female,23,public transport,8.0,14.0,2019-10-07 19:00:00,18 to 25
+Male,27,private vehicle,15.0,36.0,2019-10-07 17:00:00,26 to 35
+Male,60,cycle,5.0,12.0,2019-10-07 20:00:00,56 to 65
+Female,26,walk,5.0,50.0,2019-10-07 21:00:00,26 to 35
+Male,64,private vehicle,16.0,32.0,2019-10-07 19:00:00,56 to 65
+Male,35,public transport,7.0,17.0,2019-10-07 20:00:00,26 to 35
+Male,44,walk,4.0,48.0,2019-10-07 20:00:00,36 to 45
+Female,36,private vehicle,9.0,20.0,2019-10-07 21:00:00,36 to 45
+Male,55,private vehicle,13.0,27.0,2019-10-07 17:00:00,46 to 55
+Male,59,private vehicle,11.0,19.0,2019-10-07 18:00:00,56 to 65
+Female,24,public transport,12.0,25.0,2019-10-07 18:00:00,18 to 25
+Female,20,public transport,9.0,17.0,2019-10-07 22:00:00,18 to 25
+Female,39,private vehicle,15.0,26.0,2019-10-07 19:00:00,36 to 45
+Male,52,private vehicle,17.0,29.0,2019-10-07 19:00:00,46 to 55
+Female,33,walk,2.0,20.0,2019-10-07 19:00:00,26 to 35
+Female,39,private vehicle,20.0,48.0,2019-10-07 19:00:00,36 to 45
+Female,34,private vehicle,16.0,38.0,2019-10-07 18:00:00,26 to 35
+Female,32,private vehicle,12.0,22.0,2019-10-07 20:00:00,26 to 35
+Female,64,private vehicle,15.0,35.0,2019-10-07 17:00:00,56 to 65
+Male,20,cycle,7.0,18.0,2019-10-07 20:00:00,18 to 25
+Male,51,walk,2.0,20.0,2019-10-07 21:00:00,46 to 55
+Female,33,cycle,9.0,23.0,2019-10-07 22:00:00,26 to 35
